@@ -1,1 +1,3 @@
-# devmaller
+# maven-project
+
+Simple Maven Project
